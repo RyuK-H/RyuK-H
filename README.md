@@ -3,18 +3,18 @@
 안녕하세요. 개발자 류기혁입니다. 👋</br>
 게임 개발자에서 블록체인 개발자로 그리고, 현재는 `프론트엔드 개발자`로 활동하고 있습니다.</br>
 
-### 😄Languages
+### 📚 &nbsp;Languages
 - **JS/TS** 🐥
 - C/C++ 🐣
 - Pyhton 🐤
 
-### 📫 How to reach me
+### 📫 &nbsp;How to reach me
 - LinkedIn : [Click Me](https://www.linkedin.com/in/ryuchain/)
 - Tistory : [Click Me](https://ryublock.tistory.com/)
 - FaceBook : [Click Me](https://www.facebook.com/BlockChainProgrammer)
 - Email : ryugihyeok@gmail.com
 
-### 💬 TMI
+### 💬 &nbsp;TMI
 - 새로운 것에 대한 흥미가 상상 이상으로 많습니다.
 - 현재는 일을 벌리지 않고, 침착하게 JavaScript & React를 차곡차곡 공부할 계획입니다.
 - React-Native로 App Store, Google Play Store에 앱을 올려보았습니다.
