@@ -1,4 +1,8 @@
 ### Developer RyuK 💀
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryuchain/)](https://www.linkedin.com/in/ryuchain/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryugihyeok@gmail.com)](mailto:ryugihyeok@gmail.com) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/BlockChainProgrammer)](https://www.facebook.com/BlockChainProgrammer) 
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://ryublock.tistory.com/)](https://ryublock.tistory.com/)
 
 안녕하세요. 개발자 류기혁입니다. 👋</br>
 게임 개발자에서 블록체인 개발자로 그리고, 현재는 `프론트엔드 개발자`로 활동하고 있습니다.</br>
@@ -7,12 +11,6 @@
 - **JS/TS** 🐥
 - C/C++ 🐣
 - Pyhton 🐤
-
-### 📫 &nbsp;How to reach me
-- LinkedIn : [Click Me](https://www.linkedin.com/in/ryuchain/)
-- Tistory : [Click Me](https://ryublock.tistory.com/)
-- FaceBook : [Click Me](https://www.facebook.com/BlockChainProgrammer)
-- Email : ryugihyeok@gmail.com
 
 ### 💬 &nbsp;TMI
 - 새로운 것에 대한 흥미가 상상 이상으로 많습니다.
