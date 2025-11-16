@@ -4,10 +4,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/Dev.RyuK)](https://facebook.com/Dev.RyuK) 
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://ryublock.tistory.com/)](https://ryublock.tistory.com/)
 
-안녕하세요. 개발자 류기혁입니다. 👋</br>
-넥슨코리아에서 블록체인 개발을 하고 있습니다.</br>
-
-### 📚 &nbsp;Languages
-- **JS/TS** 🐥
-- C/C++ 🐣
-- Pyhton 🐤
+Hello! I’m RyuK, 👋</br>
+A developer passionate about building scalable systems and blockchain-driven services.</br>
+ 
+I’m currently the Head of Blockchain Development at NEXPACE Limited,</br>
+where I work on blockchain infrastructure and Web3 ecosystem features for MapleStory Universe and other large-scale projects.</br>
