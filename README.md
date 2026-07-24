@@ -1,11 +1,16 @@
-### Developer RyuK 💀
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryuchain/)](https://www.linkedin.com/in/ryuchain/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryugihyeok@gmail.com)](mailto:ryugihyeok@gmail.com) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/Dev.RyuK)](https://facebook.com/Dev.RyuK) 
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://ryublock.tistory.com/)](https://ryublock.tistory.com/)
+### Ryu Gihyeok (RyuK) 💀
 
-Hello! I’m RyuK, 👋</br>
-A developer passionate about building scalable systems and blockchain-driven services.</br>
- 
-I’m currently the Head of Blockchain Development at NEXPACE Limited,</br>
-where I work on blockchain infrastructure and Web3 ecosystem features for MapleStory Universe and other large-scale projects.</br>
+[![Blog](https://img.shields.io/badge/Blog-ryuology.com-FF5A5F?style=flat-square&logo=rss&logoColor=white)](https://ryuology.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryuchain/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ryugihyeok@gmail.com)
+[![Work](https://img.shields.io/badge/Work-NEXPACE-2B2D42?style=flat-square&logo=maildotru&logoColor=white)](mailto:k.ryu@nexpace.io)
+
+> **Head of Blockchain Development @ NEXPACE**
+> Building the on-chain economy & Web3 ecosystem for **MapleStory Universe**.
+
+Blockchain infrastructure, scalable systems, and the space where game economies meet
+real ownership rails. I write what I learn at **[ryuology.com](https://ryuology.com)**.
+
+#### 📊 GitHub
+![RyuK's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuK-H&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuK-H&layout=compact&hide_border=true&theme=tokyonight)
