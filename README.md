@@ -11,3 +11,9 @@
 
 Blockchain infrastructure, scalable systems, and the space where game economies meet
 real ownership rails. I write what I learn at **[ryuology.com](https://ryuology.com)**.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyuK-H/RyuK-H/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyuK-H/RyuK-H/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyuK-H/RyuK-H/output/github-snake.svg">
+</picture>
