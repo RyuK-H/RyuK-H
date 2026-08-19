@@ -23,8 +23,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # vendored from rim95dev/contribution-defense@v1 with two rendering
+      # fixes: settle keyframes are kept monotonic (a brick killed mid-settle
+      # produced out-of-order percentages that browsers re-sort into a slow
+      # drift), and melee shakes get a hold frame (the +2px wind-up used to
+      # interpolate from seconds earlier).
       - name: Fight tonight's siege
-        uses: rim95dev/contribution-defense@v1
+        uses: ./.github/actions/contribution-defense
 
       - name: Commit battle result
         run: |
