@@ -1,9 +1,9 @@
 {
   "founded": "2026-06-12",
-  "runStart": "2026-10-01",
-  "lastDate": "2026-10-11",
-  "hp": 1,
-  "runs": 7,
+  "runStart": "2026-10-13",
+  "lastDate": "2026-10-12",
+  "hp": 100,
+  "runs": 8,
   "best": 56,
-  "fellYesterday": false
+  "fellYesterday": true
 }
